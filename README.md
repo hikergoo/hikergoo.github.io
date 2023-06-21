@@ -1,2 +1,0 @@
-# hikergoo.github.io
-web

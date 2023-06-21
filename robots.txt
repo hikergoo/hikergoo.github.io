@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://quickymq.hikerwatermelon.tk/sitemap.xml
